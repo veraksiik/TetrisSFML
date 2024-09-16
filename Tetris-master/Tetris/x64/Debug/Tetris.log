@@ -1,0 +1,31 @@
+﻿  AssetManager.cpp
+C:\Users\ДОМ\Desktop\TetrisProject\TETRISSFMLBLIIN-main\Tetris-master\AssetManager.h(2,9): error C1083: Не удается открыть файл включение: SFML/Audio.hpp: No such file or directory,
+  (компиляция исходного файла "AssetManager.cpp")
+  
+  Button.cpp
+C:\Users\ДОМ\Desktop\TetrisProject\TETRISSFMLBLIIN-main\Tetris-master\Button.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Button.cpp")
+  
+  GameEngine.cpp
+C:\Users\ДОМ\Desktop\TetrisProject\TETRISSFMLBLIIN-main\Tetris-master\GameEngine.h(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "GameEngine.cpp")
+  
+C:\Users\ДОМ\Desktop\TetrisProject\TETRISSFMLBLIIN-main\Tetris-master\Button.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "GameEngine.cpp")
+  
+  GameSound.cpp
+C:\Users\ДОМ\Desktop\TetrisProject\TETRISSFMLBLIIN-main\Tetris-master\GameSound.h(3,9): error C1083: Не удается открыть файл включение: SFML/Audio.hpp: No such file or directory,
+  (компиляция исходного файла "GameSound.cpp")
+  
+  main.cpp
+C:\Users\ДОМ\Desktop\TetrisProject\TETRISSFMLBLIIN-main\Tetris-master\GameEngine.h(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\ДОМ\Desktop\TetrisProject\TETRISSFMLBLIIN-main\Tetris-master\Button.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "main.cpp")
+  
+  Tetramino.cpp
+C:\Users\ДОМ\Desktop\TetrisProject\TETRISSFMLBLIIN-main\Tetris-master\AssetManager.h(2,9): error C1083: Не удается открыть файл включение: SFML/Audio.hpp: No such file or directory,
+  (компиляция исходного файла "Tetramino.cpp")
+  
+  Создание кода...

@@ -1,0 +1,20 @@
+﻿  AssetManager.cpp
+  Button.cpp
+  GameEngine.cpp
+C:\Users\Igor\Downloads\Tetris-master\Tetris-master\GameEngine.h(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "GameEngine.cpp")
+  
+C:\Users\Igor\Downloads\Tetris-master\Tetris-master\GameEngine.h(3,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "GameEngine.cpp")
+  
+  GameSound.cpp
+  main.cpp
+C:\Users\Igor\Downloads\Tetris-master\Tetris-master\GameEngine.h(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "main.cpp")
+  
+C:\Users\Igor\Downloads\Tetris-master\Tetris-master\GameEngine.h(3,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  (компиляция исходного файла "main.cpp")
+  
+  Tetramino.cpp
+  Создание кода...
+  Tetris.vcxproj -> C:\Users\Igor\Downloads\Tetris-master\Tetris-master\x64\Debug\Tetris.exe
